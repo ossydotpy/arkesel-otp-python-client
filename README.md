@@ -11,4 +11,5 @@ This is a wrapper around the [Arkesel SMS API](https://developers.arkesel.com/#t
 1. Clone this repository using Git
 2. Navigate into the project directory: `cd arkesel-otp-python-client`
 3. Install dependencies using pip: `pip install -r requirements.txt` 
-4. Run the client: `python app.py`
+4. Add your arkesel api key to the `.env`. example in [.envexample](/.envexample) file
+5. Run the client: `python app.py`
