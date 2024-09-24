@@ -16,7 +16,7 @@ This is a wrapper around the [Arkesel SMS API](https://developers.arkesel.com/#t
 
 # Use without an api layer
 * You can now use this service to handle the entire OTP workflow without needing an API layer
-see [example](./otp_as_a_service.py)
+see [example](/otp_as_a_service.py)
 
 ## OR with an api layer
 ### example usage
